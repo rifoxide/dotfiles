@@ -1,0 +1,15 @@
+# font-family = Iosevka
+window-padding-x = 5
+window-padding-y = 5
+# resize-overlay-duration = 4s 200ms
+# window-decoration = none
+window-theme = ghostty
+# background-opacity = 0.6
+font-size = 16
+# theme = Batman
+theme = Adwaita Dark
+background = #181818
+# background = #192226
+window-height = 28
+window-width = 92
+# gtk-adwaita = true
